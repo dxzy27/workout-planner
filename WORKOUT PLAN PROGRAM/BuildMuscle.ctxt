@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BuildMuscle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=panel
+comment2.target=void\ placeComponents(javax.swing.JPanel)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=fileName\ selectedDays\ dayNames\ workoutType\ intensity
+comment4.target=java.lang.String\ readPlanForSelectedDays(java.lang.String,\ boolean[],\ java.lang.String[],\ java.lang.String,\ java.lang.String)
+comment5.params=intensityCode
+comment5.target=java.lang.String\ getIntensityName(java.lang.String)
+comment6.params=planContent
+comment6.target=void\ savePlanToFile(java.lang.String)
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BMICalculator
+comment1.params=parentFrame
+comment1.target=void\ showBMIWindow(javax.swing.JFrame)
+comment2.params=
+comment2.target=java.lang.String\ getBMIDetails()
+numComments=3
